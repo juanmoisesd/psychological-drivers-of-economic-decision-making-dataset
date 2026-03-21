@@ -1,0 +1,40 @@
+{
+  "title": "This dataset compiles global evidence on psychological factors that drive economic decision-making, spanning behavioral economics, cognitive psychology, and neuroeconomics research published from 1990 to 2025. It covers four core psychological variab",
+  "description": "This dataset compiles global evidence on psychological factors that drive economic decision-making, spanning behavioral economics, cognitive psychology, and neuroeconomics research published from 1990 to 2025. It covers four core psychological variab",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-zero",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "behavioral-economics",
+    "cc0",
+    "cognitive-biases",
+    "cognitive-heuristics",
+    "confirmation-bias",
+    "dataset",
+    "decision-making",
+    "open-data",
+    "risk-aversion",
+    "temporal-discounting"
+  ],
+  "language": "eng",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "grants": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/juanmoisesd/psychological-drivers-of-economic-decision-making-dataset",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-# 📖 Glosario / Glossary: Neurología y Enfermedades Neurodegenerativas / Neurology & Neurodegenerative Diseases
+# 📖 Glosario / Glossary: Economía Conductual y Neuroeconomía / Behavioral Economics & Neuroeconomics
 
 > **Definiciones originales de / Original definitions by:** Juan Moisés de la Serna Tuya
 > **ORCID:** [0000-0002-8401-8018](https://orcid.org/0000-0002-8401-8018) | **LinkedIn:** [juanmoisesdelaserna](https://www.linkedin.com/in/juanmoisesdelaserna/)
@@ -7,7 +7,7 @@
 
 ---
 
-*Definiciones originales en neurología clínica, enfermedad de Alzheimer, deterioro cognitivo y demencias, con aplicación a datos epidemiológicos de América Latina.*
+*Definiciones originales en economía conductual, sesgos cognitivos, neuroeconomía y políticas públicas basadas en el comportamiento.*
 
 *Este glosario contiene definiciones originales propuestas por el autor en el contexto de esta base de datos. Las definiciones están disponibles en español e inglés para maximizar la difusión internacional. Si utilizas estas definiciones, por favor cita al autor (ver sección al final del documento).*
 
@@ -15,56 +15,96 @@
 
 ## A
 
-**Alzheimer (Enfermedad de) / Alzheimer's Disease**
-Trastorno neurodegenerativo progresivo e irreversible que constituye la causa más frecuente de demencia (60-70% de los casos). Se caracteriza histopatológicamente por la acumulación de placas de amiloide-β y ovillos neurofibrilares de proteína tau hiperfosforilada, con pérdida sináptica y neuronal progresiva.
-*A progressive and irreversible neurodegenerative disorder constituting the most frequent cause of dementia (60-70% of cases). It is histopathologically characterized by accumulation of amyloid-β plaques and hyperphosphorylated tau neurofibrillary tangles, with progressive synaptic and neuronal loss.*
+**Anclaje / Anchoring Bias**
+Sesgo cognitivo por el cual las personas se apoyan de manera desproporcionada en la primera información recibida (el "ancla") al tomar decisiones posteriores, incluso cuando el ancla es arbitraria o irrelevante. En contextos económicos, el anclaje afecta negociaciones, valoraciones de activos y expectativas salariales.
+*A cognitive bias in which people rely disproportionately on the first piece of information received (the "anchor") when making subsequent decisions, even when the anchor is arbitrary or irrelevant. In economic contexts, anchoring affects negotiations, asset valuations, and salary expectations.*
 *— De la Serna Tuya, J. M. (2025)*
 
-## B
+**Aversión a la Pérdida / Loss Aversion**
+Patrón conductual por el cual los individuos ponderan las pérdidas percibidas más del doble que las ganancias equivalentes (ratio típico >2:1). Esta asimetría distorsiona la toma de decisiones económicas racionales y genera inercia en la gestión de carteras de inversión.
+*A behavioral pattern in which individuals weigh perceived losses more than twice as heavily as equivalent gains (typical ratio >2:1), distorting rational economic decision-making and generating inertia in investment portfolio management.*
+*— De la Serna Tuya, J. M. (2025)*
 
-**Biomarcadores de Demencia / Dementia Biomarkers**
-Indicadores biológicos medibles (en líquido cefalorraquídeo, sangre o mediante neuroimagen) que reflejan procesos fisiopatológicos subyacentes a las demencias, incluyendo niveles de Aβ42, proteína tau total, tau fosforilada, neurofilamento de cadena ligera (NfL) y atrofia hipocampal en RM.
-*Measurable biological indicators (in cerebrospinal fluid, blood, or through neuroimaging) reflecting pathophysiological processes underlying dementias, including Aβ42, total tau, phosphorylated tau, neurofilament light chain (NfL) levels, and hippocampal atrophy on MRI.*
+## C
+
+**Contabilidad Mental / Mental Accounting**
+Proceso cognitivo por el cual los individuos clasifican y evalúan sus recursos económicos en "cuentas mentales" separadas según el origen, destino o forma del dinero, violando el principio de fungibilidad del dinero racional y generando decisiones subóptimas.
+*A cognitive process by which individuals classify and evaluate economic resources in separate "mental accounts" based on money's origin, purpose, or form, violating the fungibility principle and generating suboptimal decisions.*
 *— De la Serna Tuya, J. M. (2025)*
 
 ## D
 
-**Demencia / Dementia**
-Síndrome clínico caracterizado por deterioro progresivo de múltiples funciones cognitivas (memoria, lenguaje, funciones ejecutivas, orientación) de suficiente gravedad como para interferir con las actividades de la vida diaria, causado por enfermedades cerebrales diversas.
-*A clinical syndrome characterized by progressive deterioration of multiple cognitive functions (memory, language, executive functions, orientation) severe enough to interfere with daily life activities, caused by various brain diseases.*
+**Descuento Hiperbólico / Hyperbolic Discounting**
+Patrón de descuento temporal en el que los individuos prefieren desproporcionadamente recompensas menores e inmediatas sobre recompensas mayores y diferidas, con una tasa de descuento decreciente en el tiempo. Inconsistente con el descuento exponencial del modelo económico estándar.
+*A temporal discounting pattern in which individuals disproportionately prefer smaller, immediate rewards over larger, delayed ones, with a discount rate declining over time, inconsistent with standard economic exponential discounting.*
 *— De la Serna Tuya, J. M. (2025)*
 
-**Deterioro Cognitivo Leve (DCL) / Mild Cognitive Impairment (MCI)**
-Estado clínico intermedio entre el envejecimiento cognitivo normal y la demencia, caracterizado por déficits cognitivos objetivos que no comprometen la funcionalidad diaria. El DCL amnésico tiene alto riesgo de conversión a enfermedad de Alzheimer (10-15% anual).
-*An intermediate clinical state between normal cognitive aging and dementia, characterized by objective cognitive deficits that do not compromise daily functionality. Amnestic MCI carries high risk of conversion to Alzheimer's disease (10-15% annually).*
+## E
+
+**Efecto Dotación / Endowment Effect**
+Tendencia de los individuos a asignar mayor valor a los objetos o activos que ya poseen en comparación con ítems idénticos que no poseen, reflejando aversión a la pérdida y propiedad psicológica. Este sesgo infla los precios de reserva en transacciones de mercado.
+*The tendency for individuals to assign greater value to objects or assets they own compared to identical items they do not own, reflecting loss aversion and psychological ownership. This bias inflates reservation prices in market transactions.*
 *— De la Serna Tuya, J. M. (2025)*
 
 ## F
 
-**Factores de Riesgo Modificables de Demencia / Modifiable Dementia Risk Factors**
-Variables sobre las que es posible intervenir para reducir el riesgo de demencia, identificadas por la Comisión Lancet (2020): hipertensión, tabaquismo, obesidad, depresión, inactividad física, diabetes, hipoacusia, consumo excesivo de alcohol, lesión cerebral traumática, contaminación del aire y aislamiento social.
-*Variables amenable to intervention to reduce dementia risk, identified by the Lancet Commission (2020): hypertension, smoking, obesity, depression, physical inactivity, diabetes, hearing loss, excessive alcohol consumption, traumatic brain injury, air pollution, and social isolation.*
+**Finanzas Conductuales / Behavioral Finance**
+Campo que combina psicología y economía para explicar por qué y cómo los individuos e instituciones se desvían de la toma de decisiones financieras racional, incorporando heurísticas, emociones, influencia social y capacidad cognitiva limitada.
+*A field combining psychology and economics to explain deviations from rational financial decision-making, incorporating heuristics, emotions, social influence, and limited cognitive capacity.*
+*— De la Serna Tuya, J. M. (2025)*
+
+## G
+
+**Gamificación de Políticas Públicas / Gamification of Public Policy**
+Aplicación de elementos de diseño de juegos (puntos, rankings, recompensas, desafíos) a instrumentos de política pública para modificar el comportamiento ciudadano, aumentar el cumplimiento fiscal y promover comportamientos prosociales.
+*The application of game-design elements to public policy instruments to modify citizen behavior, increase tax compliance, and promote prosocial behaviors.*
 *— De la Serna Tuya, J. M. (2025)*
 
 ## H
 
-**Hipocampo / Hippocampus**
-Estructura cerebral bilateral ubicada en el lóbulo temporal medial, fundamental para la consolidación de memorias declarativas y la navegación espacial. La atrofia hipocampal es el biomarcador estructural más precoz de la enfermedad de Alzheimer.
-*A bilateral brain structure located in the medial temporal lobe, fundamental for declarative memory consolidation and spatial navigation. Hippocampal atrophy is the earliest structural biomarker of Alzheimer's disease.*
+**Heurística de Disponibilidad / Availability Heuristic**
+Atajo cognitivo por el cual los individuos estiman la probabilidad de un evento basándose en la facilidad con que pueden evocar ejemplos relevantes de su memoria, sobreestimando eventos recientes, vívidos o ampliamente difundidos en los medios.
+*A cognitive shortcut in which individuals estimate event probability based on the ease of recalling relevant examples, overestimating recent, vivid, or widely media-covered events.*
 *— De la Serna Tuya, J. M. (2025)*
 
-## P
+## N
 
-**Proteína Tau / Tau Protein**
-Proteína asociada a microtúbulos que en condiciones patológicas se hiperfosforila, se separa de los microtúbulos y forma agregados intracelulares (ovillos neurofibrilares) característicos de las tauopatías, incluida la enfermedad de Alzheimer.
-*A microtubule-associated protein that under pathological conditions becomes hyperphosphorylated, detaches from microtubules, and forms intracellular aggregates (neurofibrillary tangles) characteristic of tauopathies, including Alzheimer's disease.*
+**Neuroeconomía / Neuroeconomics**
+Campo interdisciplinario que integra neurociencia, psicología y economía para estudiar los mecanismos neurales de la toma de decisiones económicas, la evaluación del riesgo, el procesamiento de recompensas y las preferencias sociales.
+*An interdisciplinary field integrating neuroscience, psychology, and economics to study the neural mechanisms underlying economic decision-making, risk assessment, reward processing, and social preferences.*
+*— De la Serna Tuya, J. M. (2025)*
+
+**Nudge (Empujón Conductual) / Behavioral Nudge**
+Intervención de arquitectura de elección que dirige a los individuos hacia decisiones beneficiosas sin restringir la libertad de elección ni usar incentivos financieros, explotando sesgos conductuales predecibles.
+*A choice architecture intervention steering individuals toward beneficial decisions without restricting freedom of choice or using financial incentives, exploiting predictable behavioral biases.*
+*— De la Serna Tuya, J. M. (2025)*
+
+## R
+
+**Racionalidad Limitada / Bounded Rationality**
+Concepto que describe que la toma de decisiones humana está limitada por información incompleta, restricciones cognitivas y tiempo finito. Los individuos "satisfacen" en lugar de maximizar la utilidad.
+*A concept describing that human decision-making is constrained by incomplete information, cognitive limitations, and finite time. Individuals satisfice rather than maximize utility.*
 *— De la Serna Tuya, J. M. (2025)*
 
 ## S
 
-**Screening Cognitivo / Cognitive Screening**
-Evaluación breve y estandarizada de funciones cognitivas en población general o clínica para identificar posible deterioro cognitivo que requiera evaluación neuropsicológica completa. Instrumentos validados incluyen el MMSE, MoCA, MOCA-Blind y Mini-Cog.
-*A brief, standardized assessment of cognitive functions in general or clinical populations to identify possible cognitive impairment requiring comprehensive neuropsychological evaluation. Validated instruments include the MMSE, MoCA, MOCA-Blind, and Mini-Cog.*
+**Sesgo de Statu Quo / Status Quo Bias**
+Preferencia por el estado actual de las cosas que lleva a los individuos a resistir el cambio incluso cuando los beneficios esperados superan los costes. En política económica, impide la adopción de reformas beneficiosas.
+*The preference for the current state of affairs leading individuals to resist change even when expected benefits exceed costs. In economic policy, it impedes adoption of welfare-improving reforms.*
+*— De la Serna Tuya, J. M. (2025)*
+
+## T
+
+**Teoría Prospectiva / Prospect Theory**
+Modelo descriptivo de la toma de decisiones bajo riesgo, desarrollado por Kahneman y Tversky (1979), en el que las personas evalúan los resultados como ganancias o pérdidas relativas a un punto de referencia, con las pérdidas ponderadas más que las ganancias equivalentes.
+*A descriptive model of decision-making under risk (Kahneman & Tversky, 1979) in which people evaluate outcomes as gains or losses relative to a reference point, with losses weighted more heavily than equivalent gains.*
+*— De la Serna Tuya, J. M. (2025)*
+
+## U
+
+**Ultimatum Game / Juego del Ultimátum**
+Paradigma experimental de la economía conductual en el que un proponente distribuye una suma de dinero entre sí mismo y un respondedor; si el respondedor rechaza la oferta, ambos reciben nada. Las respuestas al juego revelan preferencias por la equidad que contradicen la teoría del agente racional.
+*A behavioral economics experimental paradigm in which a proposer divides a sum between themselves and a responder; if the responder rejects the offer, both receive nothing. Responses reveal fairness preferences contradicting rational agent theory.*
 *— De la Serna Tuya, J. M. (2025)*
 
 ---

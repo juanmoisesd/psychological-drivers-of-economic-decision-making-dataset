@@ -1,0 +1,11 @@
+behavioral-economics, cc0, cognitive-biases, cognitive-heuristics, confirmation-bias, dataset, decision-making, open-data, risk-aversion, temporal-discounting, zenodo
+open-data
+dataset
+research
+science
+FAIR
+reproducibility
+open-science
+academic
+citation
+DOI

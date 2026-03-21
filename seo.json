@@ -1,0 +1,19 @@
+{
+  "title": "This dataset compiles global evidence on psychological factors that drive economic decision-making, spanning behavioral economics, cognitive psychology, and neuroeconomics research published from 1990 to 2025. It covers four core psychological variab",
+  "description": "This dataset compiles global evidence on psychological factors that drive economic decision-making, spanning behavioral economics, cognitive psychology, and neu",
+  "keywords": "behavioral-economics, cc0, cognitive-biases, cognitive-heuristics, confirmation-bias, dataset, decision-making, open-data, risk-aversion, temporal-discounting, zenodo",
+  "author": "Juan Moisés de la Serna Tuya",
+  "orcid": "https://orcid.org/0000-0002-8401-8018",
+  "canonical": "https://juanmoisesd.github.io/psychological-drivers-of-economic-decision-making-dataset/",
+  "og:title": "This dataset compiles global evidence on psychological factors that drive economic decision-making, spanning behavioral economics, cognitive psychology, and neuroeconomics research published from 1990 to 2025. It covers four core psychological variab",
+  "og:description": "This dataset compiles global evidence on psychological factors that drive economic decision-making, spanning behavioral economics, cognitive psychology, and neuroeconomics research published from 1990",
+  "og:url": "https://juanmoisesd.github.io/psychological-drivers-of-economic-decision-making-dataset/",
+  "og:type": "dataset",
+  "twitter:card": "summary",
+  "twitter:title": "This dataset compiles global evidence on psychological factors that drive economic decision-making, spanning behavioral economics, cognitive psychology, and neuroeconomics research published from 1990 to 2025. It covers four core psychological variab",
+  "twitter:description": "This dataset compiles global evidence on psychological factors that drive economic decision-making, spanning behavioral economics, cognitive psychology, and neu",
+  "schema_type": "Dataset",
+  "license": "CC0-1.0",
+  "datePublished": "2026-03-20",
+  "language": "es, en"
+}

@@ -1,25 +1,50 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "Psychological Drivers of Economic Decision-Making Dataset",
-  "identifier": "10.5281/zenodo.18971801",
-  "url": "https://doi.org/10.5281/zenodo.18971801",
+  "@type": "SoftwareSourceCode",
+  "name": "This dataset compiles global evidence on psychological factors that drive economic decision-making, spanning behavioral economics, cognitive psychology, and neuroeconomics research published from 1990 to 2025. It covers four core psychological variab",
+  "description": "This dataset compiles global evidence on psychological factors that drive economic decision-making, spanning behavioral economics, cognitive psychology, and neuroeconomics research published from 1990 to 2025. It covers four core psychological variab",
+  "url": "https://github.com/juanmoisesd/psychological-drivers-of-economic-decision-making-dataset",
+  "codeRepository": "https://github.com/juanmoisesd/psychological-drivers-of-economic-decision-making-dataset",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Mois\u00e9s",
+      "givenName": "Juan Moisés",
       "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018"
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      },
+      "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "keywords": [
-    "cognitive biases",
-    "behavioral economics",
-    "decision making",
-    "risk aversion",
-    "confirmation bias",
-    "temporal discounting",
-    "cognitive heuristics"
-  ]
+    "behavioral-economics",
+    "cc0",
+    "cognitive-biases",
+    "cognitive-heuristics",
+    "confirmation-bias",
+    "dataset",
+    "decision-making",
+    "open-data",
+    "risk-aversion",
+    "temporal-discounting",
+    "zenodo"
+  ],
+  "programmingLanguage": "HTML",
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }

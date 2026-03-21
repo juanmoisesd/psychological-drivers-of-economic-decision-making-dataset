@@ -1,0 +1,30 @@
+{
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/juanmoisesd/psychological-drivers-of-economic-decision-making-dataset",
+      "relation": "isDocumentedBy",
+      "scheme": "url",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://orcid.org/0000-0002-8401-8018",
+      "relation": "isCreatedBy",
+      "scheme": "url",
+      "resource_type": "person"
+    },
+    {
+      "identifier": "https://juanmoisesd.github.io/psychological-drivers-of-economic-decision-making-dataset/",
+      "relation": "isDescribedBy",
+      "scheme": "url",
+      "resource_type": "webpage"
+    },
+    {
+      "identifier": "https://github.com/juanmoisesd",
+      "relation": "isPartOf",
+      "scheme": "url",
+      "resource_type": "collection"
+    }
+  ],
+  "author": "Juan Moisés de la Serna Tuya",
+  "dataset": "This dataset compiles global evidence on psychological factors that drive economic decision-making, spanning behavioral economics, cognitive psychology, and neuroeconomics research published from 1990 to 2025. It covers four core psychological variab"
+}

@@ -1,0 +1,16 @@
+{
+  "orcid": "0000-0002-8401-8018",
+  "name": "Juan Moisés de la Serna Tuya",
+  "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+  "email": "juanmoises.delaserna@unir.net",
+  "website": "https://juanmoisesdelaserna.es",
+  "profile": "https://orcid.org/0000-0002-8401-8018",
+  "works": [
+    {
+      "title": "This dataset compiles global evidence on psychological factors that drive economic decision-making, spanning behavioral economics, cognitive psychology, and neuroeconomics research published from 1990 to 2025. It covers four core psychological variab",
+      "type": "dataset",
+      "url": "https://github.com/juanmoisesd/psychological-drivers-of-economic-decision-making-dataset",
+      "year": "2026"
+    }
+  ]
+}
